@@ -44,3 +44,6 @@ h2,
 p {
     font-family: times;
 }
+table, th, td {
+  font-size: 32px; 
+}
