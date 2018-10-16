@@ -5,12 +5,6 @@ footer {
     bottom:0;
 }
 
-#photooffamily { 
-     border-radius: 95%;
-     width: 95%;
-}
-
-#photoofme {
-    border-radius: 95%;
-     width: 95%;
+.img1 {
+    max-width: 50px;
 }
